@@ -12,6 +12,7 @@
 	<groupId>com.jbk</groupId>
 	<artifactId>SpringBootIntegrationWithDb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>SpringBoot-Integration-With-DB-Product</name>
 	<description>This is Spring boot project with Hibernate integration</description>
 	<properties>
